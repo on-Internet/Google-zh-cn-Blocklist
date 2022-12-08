@@ -19,7 +19,13 @@ title/.*做流量联系我/
 *://www.so.com/*
 *://*.wuzhuiso.com/*
 *://m.toutiao.com/*
+*://g*.baidu.com/*
 *://*.bing.com/ck!a*
+*://link.zhihu.com/*
+*://link.segmentfault.com/*
+*://link.jianshu.com/*
+*://go.microsoft.com/*
+*://*.google.*/url*
 *://*.myav8888.xyz/*
 *://*.mipjc.cn/*
 *://*.hao120.cc/*
@@ -397,7 +403,6 @@ title/.*做流量联系我/
 *://*.baidu.com.swd1rsv_spt1rsv_iqid.1234on.com/*
 *://*.baidu.com.txzer.com/*
 *://*.baidu.fileso.com/*
-*://*.baidu.mx/*
 *://*.baidu.seo-taiwan.com/*
 *://*.baiduer.com.cn/*
 *://*.baiduwangpan.cn/*
